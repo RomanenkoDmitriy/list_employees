@@ -1,0 +1,38 @@
+[
+{
+    "model": "employees.employee",
+    "pk": 22,
+    "fields": {
+        "name": "Bob",
+        "age": 34,
+        "rank": 2,
+        "chief": 23,
+        "created_at": "2024-03-24T16:36:08.415Z",
+        "changed_at": "2024-03-24T16:36:38.551Z"
+    }
+},
+{
+    "model": "employees.employee",
+    "pk": 23,
+    "fields": {
+        "name": "Oleg",
+        "age": 54,
+        "rank": 1,
+        "chief": null,
+        "created_at": "2024-03-24T16:36:27.480Z",
+        "changed_at": "2024-03-24T16:36:27.480Z"
+    }
+},
+{
+    "model": "employees.employee",
+    "pk": 24,
+    "fields": {
+        "name": "Park",
+        "age": 43,
+        "rank": 3,
+        "chief": 22,
+        "created_at": "2024-03-24T16:40:04.122Z",
+        "changed_at": "2024-03-24T16:40:04.122Z"
+    }
+}
+]
